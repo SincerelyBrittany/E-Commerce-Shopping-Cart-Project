@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project">
-    <img src="./LoginPage.png" alt="Logo" width="80" height="80">
+    <img src="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project/blob/main/public/LoginPage.png" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">The Shopping Cart</h3>
