@@ -9,13 +9,15 @@
     A simple React and Redux shopping cart. 
   </p>
  <a href="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project">
-     <img src="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project/blob/main/public/MainScreen.png" alt="Logo" width="400" height="400"></a>
+     <img src="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project/blob/main/public/MainScreen.png" alt="Logo" width="600" height="400"></a>
+     <br />
+     <br />
 
  <a href="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project">
-        <img src="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project/blob/main/public/CartScreen.png" alt="Logo" width="200" height="200">
+        <img src="https://github.com/SincerelyBrittany/E-Commerce-Shopping-Cart-Project/blob/main/public/CartScreen.png" alt="Logo" width="600" height="400">
         </a>
   
-</div>
+
 
 ### Installation
 
@@ -23,3 +25,5 @@
 2. Run ``npm install``
 3. Run ``npm start``
 4. Visit localhost:3000
+
+</div>
